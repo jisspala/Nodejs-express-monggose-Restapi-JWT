@@ -1,0 +1,12 @@
+/api POST method to add data
+ name, email,password,address are required values
+
+/api/login POST method to do login
+email,password are required
+we will get token
+
+/api GET method to get user data
+ send token as x-access-token header 
+
+/api PUT method to Update  user data
+ send token as x-access-token header 

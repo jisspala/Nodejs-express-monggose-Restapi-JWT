@@ -1,0 +1,1 @@
+exports.mysecret ='this is secret'
